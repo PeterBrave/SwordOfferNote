@@ -26,3 +26,13 @@ hs_err_pid*
 
 /.idea
 
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/sonarlint/
+.idea/vcs.xml
+.idea/workspace.xml
+SwordOfferNote.iml
+out/production/SwordOfferNote/DuplicateNumbersInTheArray/README.md
+out/production/SwordOfferNote/META-INF/
+out/production/SwordOfferNote/Singleton/README.md
