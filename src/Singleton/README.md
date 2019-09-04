@@ -47,7 +47,7 @@ public class SingletonTestDLC {
 }
 ```
 
-###3.饿汉模式
+### 3.饿汉模式
 ```java
 public class SingletonTestHungry {
     private SingletonTestHungry() {}
