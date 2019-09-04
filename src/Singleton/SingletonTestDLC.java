@@ -10,15 +10,15 @@ new一个新的instance的过程如下
 3. instance指向了一块内存地址
  如果是按照顺序执行，不会出现问题，万一不按照顺序执行，例如1-->3就会出现new出来的为null，就需要这样判断，不过发生的概率很小
 */
-public class SingleTestDLC {
-    private static SingleTestDLC instance;
-    private SingleTestDLC() {}
+public class SingletonTestDLC {
+    private static SingletonTestDLC instance;
+    private SingletonTestDLC() {}
 
-    public static SingleTestDLC getInstance() {
+    public static SingletonTestDLC getInstance() {
         if (instance == null) {
-            synchronized (SingleTestDLC.class) {
+            synchronized (SingletonTestDLC.class) {
                 if (instance == null) {
-                    instance = new SingleTestDLC();
+                    instance = new SingletonTestDLC();
                 }
             }
         }
