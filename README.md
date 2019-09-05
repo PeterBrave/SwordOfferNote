@@ -9,3 +9,5 @@ This repository will record the note about sword offer.
 [4. Find in partially sorted matrix](https://github.com/PeterBrave/SwordOfferNote/tree/master/src/TwoDimensionalArrayLlookup)
 
 [5. Replace Space](https://github.com/PeterBrave/SwordOfferNote/tree/master/src/ReplaceSpaces)
+
+[6. Print list in reversed order](https://github.com/PeterBrave/SwordOfferNote/tree/master/src/PrintListInReversedOrder)

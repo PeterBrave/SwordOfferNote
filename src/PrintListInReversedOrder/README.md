@@ -24,7 +24,7 @@ public class ListNode {
 ```
 
 #### `ListNode`中有两个成员变量
-一个是int型的`value`，另一个是下一个ListNode `next`。
+一个是int型的`value`，另一个是下一个`ListNode` `next`。
 #### 两个构造函数
 - 一个是传入一个`int`型数`x`。其值将成为该`ListNode`的值，该`ListNode`的`next`属性设置为`null`。
 
