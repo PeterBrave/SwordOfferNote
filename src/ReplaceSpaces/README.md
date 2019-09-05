@@ -1,7 +1,7 @@
 # 5. Replace Space
 
 该题目可以帮助复习一下Java的与字符串相关的类
-例如String, StringBuffer, StringBuilder
+例如`String`, `StringBuffer`, `StringBuilder`
 
 TODO
 后续补上
