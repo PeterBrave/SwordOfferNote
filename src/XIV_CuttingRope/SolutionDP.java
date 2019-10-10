@@ -1,6 +1,4 @@
-package CuttingRope;
-
-import java.util.Arrays;
+package XIV_CuttingRope;
 
 /**
  * @author kavin
