@@ -50,4 +50,4 @@ public void postOrder(TreeNode node) {
 }
 ```
 
-具体的测试代码见BinaryTreeTreversal.java
+具体的测试代码见BinaryTreeTraversal.java
