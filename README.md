@@ -14,3 +14,6 @@ This repository will record the note about sword offer.
 [6. Print list in reversed order](https://github.com/PeterBrave/SwordOfferNote/tree/master/src/PrintListInReversedOrder)
 
 [14. Cutting Rope]()
+
+[32.从上到下打印二叉树]()
+[33.二叉搜索树的后序遍历]()
